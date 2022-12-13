@@ -12,7 +12,7 @@ Run the following commands in order.
 this will generate the contract address once its deployed on the blockchain.
 
 **2. npx hardhat run scripts/interact.js --network goerli** 
-This is output the result.
+This will output the result.
 
 For better inderstanding please refer the https://metaschool.so/course/writing-your-first-hello-world-contract-in-solidity
     
